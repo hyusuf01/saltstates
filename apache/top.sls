@@ -1,6 +1,6 @@
 base:
   '*':
    - apache
-   - dev
+   
 
 
