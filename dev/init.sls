@@ -4,7 +4,7 @@ user_faeq_rafi:
     - fullname: faeq rafi
     - shell: /bin/bash
     - home: /home/faeq.rafi
-    - uid: 10000
+    - uid: 10001
     - gid_from_name: True
     - group:
       - wheel
