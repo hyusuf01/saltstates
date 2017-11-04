@@ -1,7 +1,4 @@
 base:
   '*':
    - apache
-   - users 
-
-
-
+   - users.init
