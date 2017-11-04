@@ -13,4 +13,4 @@ faeq_rafi_key:
   ssh_auth.present:
     - name: faeq.rafi
     - user: faeq.rafi
-    - source: salt://root/.ssh/faeq_key.pub 
+    - source: salt://users/keys/faeq_key.pub 
